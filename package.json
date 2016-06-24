@@ -35,5 +35,6 @@
       "README.md",
       "src/index.js",
       "es5/index.js"
+      "dist/es5.js"
     ]
 }
